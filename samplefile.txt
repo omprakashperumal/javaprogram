@@ -1,1 +1,3 @@
 I am practicing
+Now i am changing the from git hub
+now can i check how pushing these to local
